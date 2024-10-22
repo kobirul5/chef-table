@@ -3,7 +3,7 @@ import { CgProfile } from "react-icons/cg";
 
 const Header = () => {
     return (
-        <div className="flex flex-col justify-between my-10 items-center gap-5">
+        <div className="flex flex-col md:flex-row justify-between my-10 items-center gap-5">
             <div>
                 <h3 className="text-3xl font-bold text-[#150B2B]">Recipe Calories</h3>
                 </div>

@@ -1,0 +1,60 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/mNLzYsd/pexels-julieaagaard-2097090.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Chicken Stir Fry",
+      "short_description": "A quick and easy chicken stir fry with soy sauce and vegetables.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": "30",
+      "calories": "320"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/fMnX4pp/pexels-ella-olsson-572949-1640772.jpg",
+      "recipe_id": 2,
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian pasta with rich tomato and meat sauce.",
+      "ingredients": ["200 g spaghetti", "500 g minced beef", "300 g tomato sauce", "100 g onions"],
+      "preparing_time": "45",
+      "calories": "450"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/cbN1Mkf/pexels-chanwalrus-958545.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Vegan Power Bowl",
+      "short_description": "A healthy vegan bowl packed with quinoa, chickpeas, and veggies.",
+      "ingredients": ["100 g quinoa", "200 g chickpeas", "150 g spinach", "50 g avocado"],
+      "preparing_time": "25",
+      "calories": "280"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/BsDHwWB/pexels-robinstickel-70497.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Mexican beef tacos served with fresh salsa and lime.",
+      "ingredients": ["300 g beef", "6 taco shells", "100 g salsa", "50 g cheese"],
+      "preparing_time": "20",
+      "calories": "400"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/wC34yMn/pexels-xmtnguyen-699953.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Fluffy Pancakes",
+      "short_description": "Soft and fluffy pancakes served with maple syrup.",
+      "ingredients": ["200 g flour", "2 eggs", "300 ml milk", "50 g sugar"],
+      "preparing_time": "15",
+      "calories": "350"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/wC34yMn/pexels-xmtnguyen-699953.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Salmon Salad",
+      "short_description": "Fresh salad with grilled salmon and a light vinaigrette.",
+      "ingredients": ["150 g salmon", "100 g lettuce", "50 g cucumber", "30 ml vinaigrette"],
+      "preparing_time": "20",
+      "calories": "300"
+    }
+  ]
+  
+  
+
+

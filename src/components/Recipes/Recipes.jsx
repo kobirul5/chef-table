@@ -10,7 +10,7 @@ const Recipes = ({handelWantToCook}) => {
     },[])
 
     return (
-        <div className="md:w-2/3 grid grid-cols-2 gap-6">
+        <div className="md:w-2/3 grid md:grid-cols-2 gap-6">
             {
                 recipes.map(recipe=> <Recipe key={recipe.recipe_id}
                     recipe={recipe}

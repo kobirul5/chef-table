@@ -1,5 +1,6 @@
+import { IoMdTime } from "react-icons/io";
 
-const Recipe = ({ recipe }) => {
+const Recipe = ({ recipe, handelWantToCook}) => {
     const { recipe_image, recipe_id, recipe_name, short_description, ingredients, preparing_time, calories } = recipe
 
 
@@ -24,11 +25,12 @@ const Recipe = ({ recipe }) => {
                     </ul>
                     <hr />
                     <div className="flex text-[#878787]">
-                        <p>{preparing_time} min</p>
-                        <p>{calories} calories</p>
+                        <p ><i className="fa-regular fa-clock"></i> {preparing_time} min</p>
+                        <p><i className="fa-solid fa-fire"></i> {calories} calories</p>
                     </div>
-                    <div className="card-actions">
-                        <button className="btn bg-green-500 font-bold">Want to Cook</button>
+                    <div className="card-actions mt-4">
+                        <button onClick={()=>handelWantToCook(recipe)}
+                         className="btn px-10 bg-green-500 rounded-full font-bold">Want to Cook</button>
                     </div>
                 </div>
             </div>
